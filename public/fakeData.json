@@ -2,58 +2,50 @@
     {
         "id": 1,
         "author_name": "Farhan",
-        "blog_title": "How to learn Web Development in 2023 (Web Developer Roadmap)",
+        "blog_title": "The first thing you have to learn, is HTML, which is the standard markup language for creating web pages.",
         "images": {
             "blog_cover_image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=906&q=80",
             "author_image": "https://images.unsplash.com/photo-1628155930542-3c7a64e2c833?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
         },
         "read_time": "5",
-        "topics": {
-            "first_topic": "#web #developer"
-        },
-        "publish_date": "Mar (4 Days ago)"
+        
+        "publish_date": "Mar "
     },
     {
         "id": 2,
         "author_name": "farid",
-        "blog_title": "5 Life Lesson for Make life Successful and Great Also",
+        "blog_title": "The next step is to learn CSS, to set the layout of your web page with beautiful colors, fonts, and much more.",
         "images": {
             "blog_cover_image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
             "author_image": "https://images.unsplash.com/photo-1593085512500-5d55148d6f0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
         },
         "read_time": "11",
-        "topics": {
-            "first_topic": "#life #lesson"
-        },
-        "publish_date": "Aug 04 (2 Days ago)"
+        
+        "publish_date": "Aug 04 "
     },
     {
         "id": 3,
         "author_name": "Arif",
-        "blog_title": "Top 10 Horror English Adventure type Movie",
+        "blog_title": "After studying HTML and CSS, you should learn JavaScript to create dynamic and interactive web pages for your users",
         "images": {
             "blog_cover_image": "https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "author_image": "https://images.unsplash.com/photo-1533518463841-d62e1fc91373?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
         },
         "read_time": "15",
-        "topics": {
-            "first_topic": "#movie #entertainment"
-        },
-        "publish_date": "Dec 17 (9 Days ago)"
+       
+        "publish_date": "Dec 17 "
     },
     {
         "id": 4,
         "author_name": "Nadim",
-        "blog_title": "Top 10 Feature in Javascript in 2023",
+        "blog_title": "After studying HTML and CSS, you should learn JavaScript to create dynamic and interactive web pages for your users",
         "images": {
             "blog_cover_image": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
             "author_image": "https://images.unsplash.com/photo-1592561199818-6b69d3d1d6e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80"
         },
         "read_time": "10",
-        "topics": {
-            "first_topic": "#top10 #javascript"
-        },
-        "publish_date": "Nov 09 (1 Weeks ago)"
+       
+        "publish_date": "Nov 09 "
     }
    
 ]

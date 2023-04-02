@@ -22,7 +22,7 @@ const Main = () => {
 
     const readItemAdded = (newBlogTitle, id) => {
         const icon = document.getElementById(`icon-no${id}`);
-        icon.style.color = '#593feb';
+        // icon.style.color = '#593feb';
         console.log(icon);
         if (blogTitle) {
             if (blogTitle.includes(newBlogTitle)) {

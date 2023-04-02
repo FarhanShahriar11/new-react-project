@@ -29,8 +29,8 @@ const Blog = (props) => {
                 </div>
                 <h1 className="blog-title">{blog_title}</h1>
                 <div className="topics">
-                    <span>{topics.first_topic}</span>
-                    <span>{topics.second_topic}</span>
+                    {/* <span>{topics.first_topic}</span>
+                    <span>{topics.second_topic}</span> */}
                 </div>
                 <button onClick={()=>readTime(read_time)} className='mark-as-read'>Mark as read</button>
             </Card.Body>
