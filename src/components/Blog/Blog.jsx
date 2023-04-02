@@ -10,7 +10,7 @@ const Blog = (props) => {
     const readTime = props.readTime;
 
     return (
-        <Card className='single-card' style={{ width: '100%' }}>
+        <Card className='single-card' style={{ width: '70%' }}>
             <Card.Img variant="top" className='cover-image' src={images.blog_cover_image} />
             <Card.Body className='card-body'>
                 <div className='top-details d-flex justify-content-between align-items-center'>

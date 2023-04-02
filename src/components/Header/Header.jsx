@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <Navbar>
             <Container className='nav-bar'>
-                <Navbar.Brand className='navbar-brand' href="#home">Nav</Navbar.Brand>
+                <Navbar.Brand className='navbar-brand' href="#home">Nav-bar</Navbar.Brand>
                 <Navbar.Toggle />
                 <Navbar.Collapse className="justify-content-end">
                    
