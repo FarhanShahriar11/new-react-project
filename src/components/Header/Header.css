@@ -11,6 +11,8 @@
     font-weight: 700;
     font-size: 40px;
     margin: 0;
+    background-color: beige;
+    width: 100%;
 }
 .nav-profile{
     width: 50px;
